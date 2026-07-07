@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayVekariya11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JayVekariya11/LeetCode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/JayVekariya11/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/JayVekariya11/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/JayVekariya11/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/JayVekariya11/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayVekariya11/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
@@ -31,4 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/JayVekariya11/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
