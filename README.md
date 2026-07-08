@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/JayVekariya11/LeetCode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/JayVekariya11/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayVekariya11/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3099-harshad-number](https://github.com/JayVekariya11/LeetCode/tree/master/3099-harshad-number) |
 ## Two Pointers
 |  |
 | ------- |
