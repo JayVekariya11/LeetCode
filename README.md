@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayVekariya11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/JayVekariya11/LeetCode/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/JayVekariya11/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/JayVekariya11/LeetCode/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/JayVekariya11/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JayVekariya11/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JayVekariya11/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JayVekariya11/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
