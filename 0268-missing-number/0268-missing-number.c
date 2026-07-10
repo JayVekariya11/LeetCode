@@ -1,18 +1,16 @@
 int missingNumber(int* nums, int numsSize) {
-    for (int i = 0; i <= numsSize; i++) {
-        int flag = 0;
 
-        for (int j = 0; j < numsSize; j++) {
-            if (i == nums[j]) {
-                flag = 1;
-                break;
-            }
-        }
+    int sum = 0, sumofnumber = 0;
 
-        if (flag == 0) {
-            return i;
-        }
+    for (int i = 0; i < numsSize; i++) {
+        sum += nums[i];
     }
 
-    return -1;   
-}
+    for (int i = 0; i <= numsSize; i++) {
+        sumofnumber += i;
+    }
+
+    return sumofnumber - sum;
+    }
+
+     
