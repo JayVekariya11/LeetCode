@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/JayVekariya11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayVekariya11/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JayVekariya11/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/JayVekariya11/LeetCode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayVekariya11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JayVekariya11/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/JayVekariya11/LeetCode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/JayVekariya11/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/JayVekariya11/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
